@@ -1,2 +1,3 @@
 # Face-Filters
-Add a touch of whimsy to your photos with our AR-powered face filters! Whether you're rocking a floral crown or channeling your inner bunny, these playful filters bring a fun and magical element to every moment.
+The "Face Filters" project takes advantage of augmented reality (AR) technology to enhance user photos with fun and engaging effects. Two popular filters—flower crown and bunny—allow users to transform their appearance with creative, interactive elements. The flower crown filter adds a vibrant, colorful touch with delicate blossoms resting on the user's head, while the bunny filter overlays adorable ears and a cute nose. These filters provide an immersive experience, offering an enjoyable way to share personal moments on social media or in private chats, all powered by AR technology.
+
